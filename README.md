@@ -20,7 +20,8 @@ directory to the profiles' folder.
 lh**_per*_top*_bot*_ew**_inf**_fill****__ef**_seam****.ini
 ```
 
-* `lh` --- layer height, given in hundreds of milimeters, e.g. 020 is 0.20mm,
+* `lh` --- layer height, given in one-hundredths of milimeters, e.g. 020 
+is 0.20mm,
 * `per` --- number of perimeters,
 * `top` --- number of top solid layers,
 * `bot` --- number of bottom solid layers,
