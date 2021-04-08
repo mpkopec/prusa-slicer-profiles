@@ -7,6 +7,13 @@ generated with the config.
 
 This is a work in progress repo, use at your own risk!
 
+## Installation
+
+Clone this repo into your Slicer's profile directory, on Linux, it is currently
+`~/.config/PrusaSlicer/print`. If git does not allow to clone into a non-empty
+directory, clone it to /tmp and then move all the files (including the `.git`)
+directory to the profiles' folder.
+
 ## Naming scheme
 
 ```
